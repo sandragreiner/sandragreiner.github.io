@@ -1,0 +1,11 @@
+# main links
+main:
+
+  - title: "About"
+    url: /about/
+#  - title: "News"
+#    url: /news/
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
