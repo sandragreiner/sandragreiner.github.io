@@ -13,7 +13,7 @@ I am Software Engineering researcher and currently Assistant Professor at the Un
 
 You can find out more [about me](/about/), my research interests, scientific services, etc. on the linked "About" page.
 
-On this website I also collect some of my main publicly available [research artifacts](/research/), including talks and preprints.
+On my homepage, I also collect some of my main publicly available [research artifacts](/research/), including talks and preprints.
 
 If you are interested in subjects I taught in form of lectures, exercises or seminars, check out my [teaching activities](/teaching/).
 
@@ -21,3 +21,5 @@ Have fun, exploring this site and check out the latest news, listed below... :)
 
 ------------------------------------------
 ## Latest News
+
+[Aug'24] Our paper _Managing Variability of CPPSs: Towards Consistency Management]{Managing Variability of Cyber-Physical Production Systems: Towards Consistency Management_ got accepted at the First International [Workshop on Model Management (MoM'24)](https://mom2024.wp.imt.fr/).
