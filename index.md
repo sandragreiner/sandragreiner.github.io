@@ -22,4 +22,4 @@ Have fun, exploring this site and check out the latest news, listed below... :)
 ------------------------------------------
 ## Latest News
 
-[Aug'24] Our paper _Managing Variability of CPPSs: Towards Consistency Management]{Managing Variability of Cyber-Physical Production Systems: Towards Consistency Management_ got accepted at the First International [Workshop on Model Management (MoM'24)](https://mom2024.wp.imt.fr/).
+[Aug'24] Our paper _Managing Variability of Cyber-Physical Production Systems: Towards Consistency Management_ got accepted at the First International [Workshop on Model Management (MoM'24)](https://mom2024.wp.imt.fr/).
