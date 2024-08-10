@@ -8,12 +8,17 @@ enable_copy_code_button: false
 This page summarizes my research achievments.
 I collect here publicly available research material, in form of talks and preprints of key publications.
 
-## Talks (besides presentations at conferences)
+## Selected Talks
 
 ### 2024
-	
-* _Generative AI and Variability A Research Vision_
-[[slides](/resources/talks/2402_vamos_genAI.pdf)]
+
+* @[WSRE](https://fg-sre.gi.de/veranstaltung/26-workshop-software-reengineering-evolution): _Is the Feature Traceability Problem Already Solved?_
+ [[slides](/resources/talks/2404_wsre_greiner.pdf)]
+* @[FOSD](https://set.win.tue.nl/event/fosd-meeting-2024/): _Conflicts in Collaborative Development of Variability-Intensive Software_
+ [[slides](https://set.win.tue.nl/wp-content/uploads/2023/07/fosd24_greiner.pdf)]
+
+* @[VaMoS](https://vamos2024.inf.unibe.ch/): _Generative AI and Variability A Research Vision_ at
+ [[slides](/resources/talks/2402_vamos_genAI.pdf)]
 
 
 ## Publications
