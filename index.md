@@ -22,6 +22,10 @@ Have fun, exploring this site and check out the latest news, listed below... :)
 ------------------------------------------
 ## Latest News
 
+[Dec'24] What news: Together with Jose Galindo, I have the honor to serve as Research Track Chair for SPLC 2025.
+
+[Oct'24] I started as Interim Professor for Programming and Software Engineering at University of Regensburg, next to my Assistant Professorship in the ACP Section at SDU.
+
 [Sep'24] The paper _Give an Inch and Take a Mile? Effects of Adding Reliable Knowledge to Heuristic Feature Tracing_, received the Best Paper Award at [SPLC'24](https://2024.splc.net).
 
 [Sep'24] I'm happy to announce that I will co-organize the 9th edition of the [SECPPS workshop](https://rickrabiser.github.io/secpps-ws/se25/) co-located with the German SE conference.
