@@ -28,6 +28,9 @@ I strive to improve the quality and usability of software artifacts involved to 
 
 ### Organization
 
+* Research Track Co-Chair [SPLC 2025](https://2025.splc.net)
+* Co-Organization [16th Transformtion Tool Contest](https://www.transformation-tool-contest.eu/) as part of [STAF 2025](https://conf.researchr.org/home/staf-2025)
+
 * Co-Organization [9th SECPPS workshop](https://rickrabiser.github.io/secpps-ws/se25/)
 * Co-Organization [ICST 2025](https://conf.researchr.org/home/icst-2025) [Poster Track](https://conf.researchr.org/track/icst-2025/icst-2025-posters)
 * Co-Organization [1st Re:volution Workshop](https://sites.google.com/view/re-volution2024/home)
@@ -36,6 +39,7 @@ I strive to improve the quality and usability of software artifacts involved to 
 	
 ### Recent PCs
 
+* [EASE 2025, Short Papers & Emerging Results Track](https://conf.researchr.org/track/ease-2025/ease-2025-short-papers--emerging-results)
 * [VaMoS 2025](https://familiar-project.github.io/VaMoS2025/)
 * [GPCE 2024, co-located with SPLASH](https://2024.splashcon.org/home/gpce-2024)
 * [SPLC 2024](https://2024.splc.net)
@@ -45,9 +49,10 @@ I strive to improve the quality and usability of software artifacts involved to 
 * [Models 2023 (Artifact Track)]()
 * [VaMoS 2023](https://vamos2023.sdu.dk/) __Distingusihed Reviewer__
 
-### Further Reviewing Activities
+### Further Recent Reviewing Activities
 
 * Empirical Software Engineering (EMSE), Springer
 * IEEE Software, IEEE
 * Journal of Systems ans Software (JSS), Elsevier
+* Information and Software Technologies (IST), Elsevier
 * Journal of Object Technology (JOT), AITO
