@@ -22,7 +22,14 @@ Have fun, exploring this site and check out the latest news, listed below... :)
 ------------------------------------------
 ## Latest News
 
-[Dec'24] What news: Together with Jose Galindo, I have the honor to serve as Research Track Chair for SPLC 2025.
+
+[Feb'25] For "outstanding review contributions" as PC at [VaMoS 2025](https://familiar-project.github.io/VaMoS2025/awards/), I received the **Best Reviewer Award** :)
+
+[Jan'25] I'm co-organizing the [16th Transformation Tool Contest](https://transformationtoolcontest.github.io/) as part of the [STAF conference](https://conf.researchr.org/home/staf-2025/ttc-2025#About). Submission of novel cases, extensions to previous solutions, and nove solutions is now open.
+
+[Dec'24] Great news: Together with Jose Galindo, I have the honor to serve as **Research Track Chair** at [SPLC 2025](https://2025.splc.net).
+
+[Nov '24] Together with Bianca Wiesmayr, I am organizing the [9th edition of the SECPPS workshop](https://rickrabiser.github.io/secpps-ws/se25/) co-located with the GI [Software Engineering](https://se2025.sdq.kastel.kit.edu/) conference.
 
 [Oct'24] I started as Interim Professor for Programming and Software Engineering at University of Regensburg, next to my Assistant Professorship in the ACP Section at SDU.
 
