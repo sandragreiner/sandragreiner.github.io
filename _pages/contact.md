@@ -17,7 +17,7 @@ Since I'm sporadically traveling a lot, to be sure to reach me in the office, pl
 	Office: Ø14-601b-1
 	
 	
-## University of Regensburg (until March 31, 2024):
+## University of Regensburg (until March 31, 2025):
 		
 	Faculty for Informatics and Data Science
 	University of Regensburg (UR)
