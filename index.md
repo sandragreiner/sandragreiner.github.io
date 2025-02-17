@@ -25,6 +25,8 @@ Have fun, exploring this site and check out the latest news, listed below... :)
 
 [Feb'25] For "outstanding review contributions" as PC at [VaMoS 2025](https://familiar-project.github.io/VaMoS2025/awards/), I received the **Best Reviewer Award** :)
 
+[Jan'25] Our JSS article [Managing control software variability in Cyber-Physical Production Systems: The V4rdiac approach](https://www.sciencedirect.com/science/article/abs/pii/S0164121224003698) in which we explore the capabilities of delta-oriented product lines for CPPS got published.
+
 [Jan'25] I'm co-organizing the [16th Transformation Tool Contest](https://transformationtoolcontest.github.io/) as part of the [STAF conference](https://conf.researchr.org/home/staf-2025/ttc-2025#About). Submission of novel cases, extensions to previous solutions, and nove solutions is now open.
 
 [Dec'24] Great news: Together with Jose Galindo, I have the honor to serve as **Research Track Chair** at [SPLC 2025](https://2025.splc.net).
@@ -33,11 +35,11 @@ Have fun, exploring this site and check out the latest news, listed below... :)
 
 [Oct'24] I started as Interim Professor for Programming and Software Engineering at University of Regensburg, next to my Assistant Professorship in the ACP Section at SDU.
 
-[Sep'24] The paper _Give an Inch and Take a Mile? Effects of Adding Reliable Knowledge to Heuristic Feature Tracing_, received the Best Paper Award at [SPLC'24](https://2024.splc.net).
+[Sep'24] The paper _Give an Inch and Take a Mile? Effects of Adding Reliable Knowledge to Heuristic Feature Tracing_, received the **Best Paper Award** at [SPLC'24](https://2024.splc.net).
 
 [Sep'24] I'm happy to announce that I will co-organize the 9th edition of the [SECPPS workshop](https://rickrabiser.github.io/secpps-ws/se25/) co-located with the German SE conference.
 
 [Aug'24] Our paper _Automated Generation of Code Contracts: Generative
 AI to the Rescue?_, got accepted at the ACM SIGPLAN International Conference on Generative Programming: Concepts & Experiences [(GPCE)](https://2024.splashcon.org/home/gpce-2024).
 
-[Aug'24] Our paper _Managing Variability of Cyber-Physical Production Systems: Towards Consistency Management_ got accepted at the First International [Workshop on Model Management (MoM'24)](https://mom2024.wp.imt.fr/).
+
