@@ -17,11 +17,14 @@ On my homepage, I also collect some of my main publicly available [research arti
 
 If you are interested in subjects I taught in form of lectures, exercises or seminars, check out my [teaching activities](/teaching/).
 
-Have fun, exploring this site and check out the latest news, listed below... :)
+Have fun exploring this site and check out the latest news, listed below... :)
 
 ------------------------------------------
 ## Latest News
 
+[Mar'25] I gonna present and discuss ongoing work at the [FOSD Meeting 2025](https://fosd.github.io/FOSD2025/).
+
+[Mar'25] At SDU's IMADA talks, I give a talk on ''Variability Management in Complex Systems''
 
 [Feb'25] For "outstanding review contributions" as PC at [VaMoS 2025](https://familiar-project.github.io/VaMoS2025/awards/), I received the **Best Reviewer Award** :)
 
