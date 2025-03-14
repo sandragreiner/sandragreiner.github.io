@@ -14,7 +14,11 @@ Furthermore, I used to teach/train pupils of various ages to learn Java programm
 ## University of Southern Denmark
 	
 - Lecture: Compiler Construction (intended for Bachelor, 5th Semester), 5 ECTS
-	
+
+## University of Regensburg (Winterterm 2024/25)
+
+- Lecture: Software Engineering (intended for Bachelor, 3th Semester), 6 ECTS
+
 	
 ## University of Bern:
 		
