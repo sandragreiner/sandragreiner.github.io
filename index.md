@@ -5,8 +5,8 @@ permalink: /
 ---
 
 Hi there, welcome to my homepage!
-My name is Sandra and I'm passionate about improving the maintenance of complex software systems.
-I am Interim Professor for Software Engineering at the University of Regensburg, Germany and Assistant Professor at the University of Southern Denmark (short SDU), in the [ACP Section](https://acp.sdu.dk/).
+My name is Sandra and I'm passionate about improving the maintenance of complex software systems, particularly configurbale ones.
+Currently, I am Assistant Professor at the University of Southern Denmark (short SDU), in the [ACP Section](https://acp.sdu.dk/).
 
 
 ## What can you discover on this website?
@@ -22,9 +22,11 @@ Have fun exploring this site and check out the latest news, listed below... :)
 ------------------------------------------
 ## Latest News
 
+[Apr'25] I presented experiences we made with optimizing feature tracing techniques at the [WSRE 2025](https://fg-sre.gi.de/veranstaltung/27-workshop-software-reengineering-evolution).
+
 [Mar'25] I gonna present and discuss ongoing work at the [FOSD Meeting 2025](https://fosd.github.io/FOSD2025/).
 
-[Mar'25] At SDU's IMADA talks, I give a talk on ''Variability Management in Complex Systems''
+[Mar'25] At SDU's [IMADA talks](https://sdunet.dk/en/updates/c7eba946-592b-4bfb-afa8-79c9f21daa4e), I give a talk on ''Variability Management in Complex Systems''
 
 [Feb'25] For "outstanding review contributions" as PC at [VaMoS 2025](https://familiar-project.github.io/VaMoS2025/awards/), I received the **Best Reviewer Award** :)
 
