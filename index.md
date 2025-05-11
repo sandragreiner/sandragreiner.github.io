@@ -4,10 +4,12 @@ author-profile: true
 permalink: /
 ---
 
-Hi there, welcome to my homepage!
+Welcome to my homepage!
 My name is Sandra and I'm passionate about improving the maintenance of complex software systems, particularly configurbale ones.
-Currently, I am Assistant Professor at the University of Southern Denmark (short SDU), in the [ACP Section](https://acp.sdu.dk/).
+I am Assistant Professor at the University of Southern Denmark (SDU) in the [ACP Section](https://acp.sdu.dk/).
 
+
+I am Software Vice-Coordinator and Core Group member in the Cost Action [roar-net](https://roar-net.eu/) and management group member of the [Fachgruppe Software-Reengineering (SRE)](https://fg-sre.gi.de/) of the German Informatics Society (GI).
 
 ## What can you discover on this website?
 
@@ -21,6 +23,10 @@ Have fun exploring this site and check out the latest news, listed below... :)
 
 ------------------------------------------
 ## Latest News
+
+[May'25] The management commitee of the Cost Action [roar-net](https://roar-net.eu/) has elected me as **Software Vice-Coordinator**.
+
+[Apr'25] I've been elected as member of the management group of the [Fachgruppe Software-Reengineering (SRE)](https://fg-sre.gi.de/) of the German Informatics Society (GI).
 
 [Apr'25] I presented experiences we made with optimizing feature tracing techniques at the [WSRE 2025](https://fg-sre.gi.de/veranstaltung/27-workshop-software-reengineering-evolution).
 
