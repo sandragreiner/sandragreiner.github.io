@@ -7,8 +7,8 @@ toc: true
 
 ## About me
 
-Since Oct 2024, I am Interim Professor for Software Engineering at the University of Regensburg, Germany. 
 In May 2024, I joined the [ACP Section](https://acp.sdu.dk/) at the University of Souther Denmark as Assistant Professor.
+Between Oct 2024 and Mar 2025, I served as Interim Professor for Software Engineering at the Unviersity of Regensburg.
 Before joining Fabrizio Montesi's group, I was [PostDoc](https://seg.inf.unibe.ch/people/sandra/) in Timo Kehrer's [Software Engineering Group](https://seg.inf.unibe.ch/) at the University of Bern since October 2022.
 I did my PhD studies and lots of teaching activities at the University of Bayreuth in the [Chair for Software Engineering](https://www.ai1.uni-bayreuth.de/de/index.html).
 
@@ -26,10 +26,13 @@ I strive to improve the quality and usability of software artifacts involved to 
 
 ## Services
 
+* Sofware Vice Coordinator and Core Group Member in the [EU Cost Action roar-net](https://roar-net.eu/)
+* Editorial Board Member of the [Science of Computer Programming (SCP)](https://www.sciencedirect.com/journal/science-of-computer-programming) journal
+
 ### Organization
 
 * Research Track Co-Chair [SPLC 2025](https://2025.splc.net)
-* Co-Organization [16th Transformtion Tool Contest](https://www.transformation-tool-contest.eu/) as part of [STAF 2025](https://conf.researchr.org/home/staf-2025)
+* Co-Organization [16th Transformtion Tool Contest (TTC)](https://www.transformation-tool-contest.eu/) as part of [STAF 2025](https://conf.researchr.org/home/staf-2025)
 
 * Co-Organization [9th SECPPS workshop](https://rickrabiser.github.io/secpps-ws/se25/)
 * Co-Organization [ICST 2025](https://conf.researchr.org/home/icst-2025) [Poster Track](https://conf.researchr.org/track/icst-2025/icst-2025-posters)
@@ -49,7 +52,7 @@ I strive to improve the quality and usability of software artifacts involved to 
 * [Models 2023 (Artifact Track)]()
 * [VaMoS 2023](https://vamos2023.sdu.dk/) __Distingusihed Reviewer__
 
-### Further Recent Reviewing Activities
+### Further Reviewing Activities
 
 * Empirical Software Engineering (EMSE), Springer
 * IEEE Software, IEEE
