@@ -9,7 +9,7 @@ My name is Sandra and I'm passionate about improving the maintenance of complex 
 I am Assistant Professor at the University of Southern Denmark (SDU) in the [ACP Section](https://acp.sdu.dk/).
 
 
-I am Software Vice-Coordinator and Core Group member in the Cost Action [roar-net](https://roar-net.eu/) and management group member of the [Fachgruppe Software-Reengineering (SRE)](https://fg-sre.gi.de/) of the German Informatics Society (GI).
+I am Software Vice-Coordinator and Core Group member in the EU Cost Action [roar-net](https://roar-net.eu/) and management group member of the [Fachgruppe Software-Reengineering (SRE)](https://fg-sre.gi.de/) of the German Informatics Society (GI).
 
 ## What can you discover on this website?
 
@@ -24,7 +24,7 @@ Have fun exploring this site and check out the latest news, listed below... :)
 ------------------------------------------
 ## Latest News
 
-[May'25] The management commitee of the Cost Action [roar-net](https://roar-net.eu/) has elected me as **Software Vice-Coordinator**.
+[May'25] The management commitee of the EU Cost Action [roar-net](https://roar-net.eu/) has elected me as **Software Vice-Coordinator**.
 
 [Apr'25] I've been elected as member of the management group of the [Fachgruppe Software-Reengineering (SRE)](https://fg-sre.gi.de/) of the German Informatics Society (GI).
 
