@@ -17,12 +17,17 @@ You can find out more [about me](/about/), my research interests, scientific ser
 
 On my homepage, I also collect some of my main publicly available [research artifacts](/research/), including talks and preprints.
 
-If you are interested in subjects I taught in form of lectures, exercises or seminars, check out my [teaching activities](/teaching/).
+If you are interested in subjects I taught in form of lectures, exercises, or seminars, check out my [teaching activities](/teaching/).
 
 Have fun exploring this site and check out the latest news, listed below... :)
 
 ------------------------------------------
 ## Latest News
+[Jun'25] I gave a lecture on Software Development for Reuse and serve as mentor at the [1st Roarnet Training School](https://roar-net.eu/events/first-training-school/), as also reported on [LinkedIn](https://www.linkedin.com/posts/roar-net_roarnet-trainingschool-operationsresearch-activity-7341393063346393089-oybz).
+
+[Jun'25] I'm serving as PC in the [MODELS Artifact Evaluation Track](https://2025.models-conf.com/track/models-2025-artifact-evaluation).
+
+[Jun'25] I'm joining the PC of the [ME -- the 19th International Workshop on Models and Evolution](https://models-and-evolution.github.io/).
 
 [May'25] The management commitee of the EU Cost Action [roar-net](https://roar-net.eu/) has elected me as **Software Vice-Coordinator**.
 
