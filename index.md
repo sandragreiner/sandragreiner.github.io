@@ -24,6 +24,8 @@ Have fun exploring this site and check out the latest news, listed below... :)
 ------------------------------------------
 ## Latest News
 
+[Jun'25] For my PC services at the [EASE 2025](https://conf.researchr.org/home/ease-2025) conference, I received a **Best Reviewer Award**.
+
 [Jun'25] In the last week of June, I visited the [Institute of Software Systems Engineering](https://www.jku.at/en/institute-of-software-systems-engineering) at the Johannes Kepler University in Linz, AT and gave a talk in the Master Seminar about "Fine-Grained Features in Microservices?"
 
 [Jun'25] I gave a lecture on Software Development for Reuse and served as mentor at the [1st Roarnet Training School](https://roar-net.eu/events/first-training-school/), as also reported on [LinkedIn](https://www.linkedin.com/posts/roar-net_roarnet-trainingschool-operationsresearch-activity-7341393063346393089-oybz).
