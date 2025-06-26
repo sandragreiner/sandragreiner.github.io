@@ -42,6 +42,8 @@ I strive to improve the quality and usability of software artifacts involved to 
 	
 ### Recent PCs
 
+* [MODELS 2025 Artifact Evaluation Track](https://2025.models-conf.com/track/models-2025-artifact-evaluation)
+* [ME -- the 19th International Workshop on Models and Evolution](https://models-and-evolution.github.io/)
 * [EASE 2025, Short Papers & Emerging Results Track](https://conf.researchr.org/track/ease-2025/ease-2025-short-papers--emerging-results)
 * [VaMoS 2025](https://familiar-project.github.io/VaMoS2025/)
 * [GPCE 2024, co-located with SPLASH](https://2024.splashcon.org/home/gpce-2024)
