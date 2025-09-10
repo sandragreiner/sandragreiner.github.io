@@ -6,10 +6,10 @@ permalink: /
 
 Welcome to my homepage!
 My name is Sandra and I'm passionate about improving the maintenance of complex software systems, particularly configurbale ones.
-I am Assistant Professor at the University of Southern Denmark (SDU) in the [ACP Section](https://acp.sdu.dk/).
+I am Associate Professor at the University of Southern Denmark (SDU) in the [ACP Section](https://acp.sdu.dk/).
 
 
-I am Software Vice-Coordinator and Core Group member in the EU Cost Action [roar-net](https://roar-net.eu/) and management group member of the [Fachgruppe Software-Reengineering (SRE)](https://fg-sre.gi.de/) of the German Informatics Society (GI).
+Furthermore, I am Software Vice-Coordinator and Core Group member in the EU Cost Action [roar-net](https://roar-net.eu/) and management group member of the [Fachgruppe Software-Reengineering (SRE)](https://fg-sre.gi.de/) of the German Informatics Society (GI).
 
 ## What can you discover on this website?
 
@@ -23,6 +23,12 @@ Have fun exploring this site and check out the latest news, listed below... :)
 
 ------------------------------------------
 ## Latest News
+
+[Sep'25] I'm serving in the Organizing Committee of the new [VARIABILITY](https://conf.researchr.org/home/variability-2026) conference as Co-Organizers of the Tool and Demonstration Track.
+
+[Aug'25] I joined the PC of the [34th International Conference on Program Comprehension (ICPC), Tool Demonstration Track](https://conf.researchr.org/track/icpc-2026/icpc-2026-tool-demonstration).
+
+[Aug'25] Our paper _"On the Generalization Capabilities of LLMs for Reverse Engineering Sequence Diagrams"_, joint work with the University of Bern, got accepted at the [MDE Intelligence Workshop](https://mde-intelligence.github.io/) co-located with the MODELS 2025 conference.
 
 [Jun'25] For my PC services at the [EASE 2025](https://conf.researchr.org/home/ease-2025) conference, I received a **Best Reviewer Award**.
 
