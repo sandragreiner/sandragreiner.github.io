@@ -9,7 +9,7 @@ My name is Sandra and I'm passionate about improving the maintenance of complex 
 I am Associate Professor at the University of Southern Denmark (SDU) in the [ACP Section](https://acp.sdu.dk/).
 
 
-Furthermore, I am Software Vice-Coordinator and Core Group member in the EU Cost Action [roar-net](https://roar-net.eu/) and management group member of the [Fachgruppe Software-Reengineering (SRE)](https://fg-sre.gi.de/) of the German Informatics Society (GI).
+Furthermore, I am Software Vice-Coordinator and Core Group member in the EU COST Action [ROAR-NET](https://roar-net.eu/) and management group member of the [Fachgruppe Software-Reengineering (SRE)](https://fg-sre.gi.de/) of the German Informatics Society (GI).
 
 ## What can you discover on this website?
 
@@ -23,6 +23,8 @@ Have fun exploring this site and check out the latest news, listed below... :)
 
 ------------------------------------------
 ## Latest News
+
+[Sep'25] I join the [EASE2026 Short Papers and Emerging Results](https://conf.researchr.org/track/ease-2026/ease-2026-short-papers-and-emerging-results) track as PC.
 
 [Sep'25] I'm serving in the Organizing Committee of the new [VARIABILITY](https://conf.researchr.org/home/variability-2026) conference as Co-Organizers of the Tool and Demonstration Track.
 
@@ -40,7 +42,7 @@ Have fun exploring this site and check out the latest news, listed below... :)
 
 [Jun'25] I'm joining the PC of the [ME -- the 19th International Workshop on Models and Evolution](https://models-and-evolution.github.io/).
 
-[May'25] The management commitee of the EU Cost Action [roar-net](https://roar-net.eu/) has elected me as **Software Vice-Coordinator**.
+[May'25] The management commitee of the EU COST Action [ROAR-NET](https://roar-net.eu/) has elected me as **Software Vice-Coordinator**.
 
 [Apr'25] I've been elected as member of the management group of the [Fachgruppe Software-Reengineering (SRE)](https://fg-sre.gi.de/) of the German Informatics Society (GI).
 
