@@ -62,7 +62,7 @@ I strive to improve the quality and usability of software artifacts involved to 
 
 ### Further Reviewing Activities
 
-* Transactions on Software Engineering Methodology (TOSEM), ACM
+* Transactions on Software Engineering and Methodology (TOSEM), ACM
 * Empirical Software Engineering (EMSE), Springer
 * IEEE Software, IEEE
 * Journal of Systems ans Software (JSS), Elsevier
