@@ -8,14 +8,18 @@ Below I give an overview of all courses that I either ran as lecturer or where I
 
 Besides this list, 
 I gave a **guest lecture** in the Space Software Course at the University of Athens in May 2023.
+In June 2026, I gave an invited lecture on ["Software Development for Reuse"](https://roar-net.eu/events/training-school/software_development_for_reuse.pdf) in the 1. ROAR-NET Training School.
 
-Furthermore, I used to teach/train pupils of various ages to learn Java programming and the basic principles of software engineering.
+Furthermore, I used to teach/train _pupils_ of various ages to learn Java programming and the basic principles of software engineering.
 
 ## University of Southern Denmark
 	
-- Lecture: Compiler Construction (intended for Bachelor, 5th Semester), 5 ECTS
+- Lecture (Course Reponsbile):
+	- Compiler Construction (intended for 5th Semester B.Sc. Computer Science), 5 ECTS, Fall 2024 and 2025
+	- Object-Oriented Programming (intended for 2nd Semester B.Sc. Computer Science and Artificial Intelligence), 7.5 ECTS, Spring 2026
+- Supervision: Bachelor Project (intended for 6th Semester B.Sc. Computer Science), 10 ECTS, since Spring 2025
 
-## University of Regensburg (Winterterm 2024/25)
+## University of Regensburg (winter term 2024/25)
 
 - Lecture: Software Engineering (intended for Bachelor, 3th Semester), 6 ECTS
 
