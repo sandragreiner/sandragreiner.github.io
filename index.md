@@ -24,6 +24,16 @@ Have fun exploring this site and check out the latest news, listed below... :)
 ------------------------------------------
 ## Latest News
 
+[Jan'26] The [17th Transformation Tool Contest](https://transformationtoolcontest.github.io/) will be co-located with [STAF 2026](https://conf.researchr.org/home/staf-2026) in Rennes. Call for Cases is open until __Jan 29__.
+
+[Dec'25] Great news :) [CarlsbergFondet](https://www.carlsbergfondet.dk) will support the FOSD Meeting 2026 held in Odense. More information will follow.
+
+[Nov'25] Together with Friedericke Bruns and Alexander Diedrich, I will organize the GI Dagstuhl Seminar on ["Data-Driven Design and Operation of Resilient Cyber-Physical Production Systems"](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/26463) next November. First round of invitations is sent in December.
+
+[Oct'25] I presented our paper "_On the Generalization Capabilities of LLMs for Reverse Engineering Sequence Diagrams_" at the [MDE Intelligence Workshop](https://mde-intelligence.github.io/) co-located with the MODELS 2025 conference. 
+
+[Oct'25] I joined the [CAiSE’26](https://caise26.polimi.it/) Research Track as PC.
+
 [Sep'25] I join the [EASE2026 Short Papers and Emerging Results](https://conf.researchr.org/track/ease-2026/ease-2026-short-papers-and-emerging-results) track as PC.
 
 [Sep'25] I'm serving in the Organizing Committee of the new [VARIABILITY](https://conf.researchr.org/home/variability-2026) conference as Co-Organizers of the Tool and Demonstration Track.
