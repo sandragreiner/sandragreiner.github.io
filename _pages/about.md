@@ -28,7 +28,7 @@ I strive to improve the quality and usability of software artifacts involved to 
 
 * Sofware Vice Coordinator and Core Group Member in the [EU COST Action ROAR-NET](https://roar-net.eu/)
 * Editorial Board Member of the [Science of Computer Programming (SCP)](https://www.sciencedirect.com/journal/science-of-computer-programming) journal
-* Guest Editor SoSym Special Issue on
+* Guest Editor [SoSym Special Issue on Data-intensive software product lines](https://sosym.org/theme_sections/cfp/cfp-SoSyM-TS-SPLC25.pdf)
 
 ### Organization
 
@@ -45,19 +45,30 @@ I strive to improve the quality and usability of software artifacts involved to 
 	
 ### Recent PCs
 
+* [CAiSE 2026](https://caise26.polimi.it/) - Research Track
+
+* [EASE 2026](https://conf.researchr.org/track/ease-2026/ease-2026-short-papers-and-emerging-results) - Short Papers & Emerging Results Track
+
+* [ICPC 2026](https://conf.researchr.org/track/icpc-2026/icpc-2026-tool-demonstration) - Tools Track
+
 * [ICSE SRC - ACM Student Research Competition](https://conf.researchr.org/committee/icse-2026/icse-2026-SRC-acm-student-research-competition)
-* [ICPC 2026 Tools Track](https://conf.researchr.org/track/icpc-2026/icpc-2026-tool-demonstration)
-* [MODELS 2025 Artifact Evaluation Track](https://2025.models-conf.com/track/models-2025-artifact-evaluation)
-* [ME -- the 19th International Workshop on Models and Evolution](https://models-and-evolution.github.io/)
-* [EASE 2025, Short Papers & Emerging Results Track](https://conf.researchr.org/track/ease-2025/ease-2025-short-papers--emerging-results) __Distinguished Reviewer__
+
+* [MODELS 2025](https://2025.models-conf.com/track/models-2025-artifact-evaluation) - Artifact Evaluation Track
+
+* [19th International Workshop on Models and Evolution (ME)](https://models-and-evolution.github.io/)
+
+* [EASE 2025](https://conf.researchr.org/track/ease-2025/ease-2025-short-papers--emerging-results) - Short Papers & Emerging Results Track __Distinguished Reviewer__
+
 * [VaMoS 2025](https://familiar-project.github.io/VaMoS2025/) __Distinguished Reviewer__
 
 * [GPCE 2024, co-located with SPLASH](https://2024.splashcon.org/home/gpce-2024)
+
 * [SPLC 2024](https://2024.splc.net)
-* [Models 2024 (Artifact Track)](https://conf.researchr.org/track/models-2024/models-2024-artifact-evaluation)
+
+* [Models 2024 ](https://conf.researchr.org/track/models-2024/models-2024-artifact-evaluation) - Artifact Track
 * [18th International Workshop on Models and Evolution](https://models-and-evolution.github.io/)
-* [SEAMS 2024 (Artifact Track)]()
-* [Models 2023 (Artifact Track)]()
+* [SEAMS 2024](https://conf.researchr.org/track/seams-2024/seams-2024-artifact-track?#Call-for-Artifacts) - Artifact Track
+* [Models 2023]() - Artifact Track
 * [VaMoS 2023](https://vamos2023.sdu.dk/) __Distinguished Reviewer__
 
 ### Further Reviewing Activities
