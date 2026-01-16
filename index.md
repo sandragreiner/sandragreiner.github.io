@@ -24,6 +24,8 @@ Have fun exploring this site and check out the latest news, listed below... :)
 ------------------------------------------
 ## Latest News
 
+[Jan'26] The deadline for submitting to our Theme Section on [Data-intensive software product lines](https://sosym.org/theme_sections/cfp/cfp-SoSyM-TS-SPLC25.pdf) has been extended to __Feb 15__.
+
 [Jan'26] The [17th Transformation Tool Contest](https://transformationtoolcontest.github.io/) will be co-located with [STAF 2026](https://conf.researchr.org/home/staf-2026) in Rennes. Call for Cases is open until __Jan 29__.
 
 [Dec'25] Great news :) [CarlsbergFondet](https://www.carlsbergfondet.dk) will support the FOSD Meeting 2026 held in Odense. More information will follow.

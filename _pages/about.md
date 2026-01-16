@@ -28,9 +28,11 @@ I strive to improve the quality and usability of software artifacts involved to 
 
 * Sofware Vice Coordinator and Core Group Member in the [EU COST Action ROAR-NET](https://roar-net.eu/)
 * Editorial Board Member of the [Science of Computer Programming (SCP)](https://www.sciencedirect.com/journal/science-of-computer-programming) journal
-* Guest Editor [SoSym Special Issue on Data-intensive software product lines](https://sosym.org/theme_sections/cfp/cfp-SoSyM-TS-SPLC25.pdf)
+* Guest Editor [SoSym Special Issue on Data-intensive software product lines](https://sosym.org/theme_sections/cfp/cfp-SoSyM-TS-SPLC25.pdf) 
 
 ### Organization
+
+* GI Dagstuhl Seminar on [Data-Driven Design and Operation of Resilient Cyber-Physical Production Systems](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/26463)
 
 * Local Organization [FOSD Meeting 2026](https://fosd.github.io/FOSD2026/)
 * Co-Organization Tool and Demonstration Track [VARIABILITY 2026](https://conf.researchr.org/track/variability-2026/variability-2026-demonstration-and-tools)
