@@ -30,7 +30,7 @@ Have fun exploring this site and check out the latest news, listed below... :)
 
 [Dec'25] Great news :) [CarlsbergFondet](https://www.carlsbergfondet.dk) will support the FOSD Meeting 2026 held in Odense. More information will follow.
 
-[Nov'25] Together with Friedericke Bruns and Alexander Diedrich, I will organize the GI Dagstuhl Seminar on ["Data-Driven Design and Operation of Resilient Cyber-Physical Production Systems"](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/26463) next November. First round of invitations is sent in December.
+[Nov'25] Together with Friedericke Bruns and Alexander Diedrich, I will organize the GI Dagstuhl Seminar on ["Data-Driven Design and Operation of Resilient Cyber-Physical Production Systems"](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/26463) November 2026. First round of invitations is sent in December 2025.
 
 [Oct'25] I presented our paper "_On the Generalization Capabilities of LLMs for Reverse Engineering Sequence Diagrams_" at the [MDE Intelligence Workshop](https://mde-intelligence.github.io/) co-located with the MODELS 2025 conference. 
 
