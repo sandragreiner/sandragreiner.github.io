@@ -24,6 +24,11 @@ Have fun exploring this site and check out the latest news, listed below... :)
 ------------------------------------------
 ## Latest News
 
+
+[Feb'26] Joining the PC for a [IEEE ICE 2026 Special Session 02](https://ice-conference.org/call-for-contributions/) on "Modular Ecosystems for Software Defined Manufacturing!". Looking forward to exciting submissions :)
+
+[Jan'26] I joined the PC for the [FSE 2026 Ideas, Visions and Reflections](https://conf.researchr.org/track/fse-2026/fse-2026-ideas-visions-and-reflections) track.
+
 [Jan'26] The deadline for submitting to our Theme Section on [Data-intensive software product lines](https://sosym.org/theme_sections/cfp/cfp-SoSyM-TS-SPLC25.pdf) has been extended to __Feb 15__.
 
 [Jan'26] The [17th Transformation Tool Contest](https://transformationtoolcontest.github.io/) will be co-located with [STAF 2026](https://conf.researchr.org/home/staf-2026) in Rennes. Call for Cases is open until __Jan 29__.

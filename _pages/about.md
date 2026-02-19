@@ -47,6 +47,10 @@ I strive to improve the quality and usability of software artifacts involved to 
 	
 ### Recent PCs
 
+* [IEEE ICE 2026](https://ice-conference.org/call-for-contributions/) -- Special Session on "Modular Ecosystems for Software Defined Manufacturing"
+
+* [FSE IVR 2026](https://conf.researchr.org/track/fse-2026/fse-2026-ideas-visions-and-reflections) Ideas, Visions and Relfections Track 
+
 * [CAiSE 2026](https://caise26.polimi.it/) - Research Track
 
 * [EASE 2026](https://conf.researchr.org/track/ease-2026/ease-2026-short-papers-and-emerging-results) - Short Papers & Emerging Results Track
