@@ -47,7 +47,11 @@ I strive to improve the quality and usability of software artifacts involved to 
 	
 ### Recent PCs
 
-* [IEEE ICE 2026](https://ice-conference.org/call-for-contributions/) -- Special Session on "Modular Ecosystems for Software Defined Manufacturing"
+#### 2026
+* [MODELS 2026](https://conf.researchr.org/track/models-2026/models-2026-artifact-evaluation) - Artifact Evaluation Track
+
+* [IEEE ICE 2026](https://ice-conference.org/call-for-contributions/) - Special Session on "Modular Ecosystems for Software Defined Manufacturing"
+
 
 * [FSE IVR 2026](https://conf.researchr.org/track/fse-2026/fse-2026-ideas-visions-and-reflections) Ideas, Visions and Relfections Track 
 
@@ -55,9 +59,13 @@ I strive to improve the quality and usability of software artifacts involved to 
 
 * [EASE 2026](https://conf.researchr.org/track/ease-2026/ease-2026-short-papers-and-emerging-results) - Short Papers & Emerging Results Track
 
+* [VARIABILITY 2026](https://conf.researchr.org/track/variability-2026/variability-2026-project-showcase) - Project Showcase Track
+
 * [ICPC 2026](https://conf.researchr.org/track/icpc-2026/icpc-2026-tool-demonstration) - Tools Track
 
-* [ICSE SRC - ACM Student Research Competition](https://conf.researchr.org/committee/icse-2026/icse-2026-SRC-acm-student-research-competition)
+* [ICSE 2026 SRC - ACM Student Research Competition](https://conf.researchr.org/committee/icse-2026/icse-2026-SRC-acm-student-research-competition)
+
+#### 2025
 
 * [MODELS 2025](https://2025.models-conf.com/track/models-2025-artifact-evaluation) - Artifact Evaluation Track
 
@@ -66,6 +74,8 @@ I strive to improve the quality and usability of software artifacts involved to 
 * [EASE 2025](https://conf.researchr.org/track/ease-2025/ease-2025-short-papers--emerging-results) - Short Papers & Emerging Results Track __Distinguished Reviewer__
 
 * [VaMoS 2025](https://familiar-project.github.io/VaMoS2025/) __Distinguished Reviewer__
+
+#### previous years
 
 * [GPCE 2024, co-located with SPLASH](https://2024.splashcon.org/home/gpce-2024)
 

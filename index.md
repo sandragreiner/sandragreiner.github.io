@@ -24,6 +24,8 @@ Have fun exploring this site and check out the latest news, listed below... :)
 ------------------------------------------
 ## Latest News
 
+[Apr'26] Joining the PC of the [MODELS Artifact Evaluation](https://conf.researchr.org/track/models-2026/models-2026-artifact-evaluation) Track. Looking forward to review again the artifacts that really substantiate our research! 
+
 [Mar'26] We are hosting the _17th Meeting on Feature Oriented Software Development_ ([FOSD 2026](https://fosd.github.io/FOSD2026/)) at SDU. Looking forward to welcome established and young researchers, who work on taming software variability, in Odense!
 
 [Feb'26] Our paper _Benchmarking API Data Transfer Refactorings to Service-Oriented Architectures_ got accepted to the Research Track at the International Conference on Software Architecture ([ICSA 2026](https://conf.researchr.org/home/icsa-2026)).
