@@ -22,7 +22,13 @@ If you are interested in subjects I taught in form of lectures, exercises, or se
 Have fun exploring this site and check out the latest news, listed below... :)
 
 ------------------------------------------
-## Latest News
+## News
+
+[May'26] Joined the PC of the [ASE 2026 -- NIER](https://conf.researchr.org/track/ase-2026/ase-2026-nier) Track. 
+
+[May'26] Attended the [28th Workshop on Software Reengineering & Evolution (WSRE)](https://fg-sre.gi.de/veranstaltung/28-workshop-software-reengineering-evolution). This year we were co-located with the [Architekturen 2026](https://fg-arc.gi.de/veranstaltung/architekturen-2026) meeting. What a pleasure to discuss specifically the cross-cutting topics between software re-engineering and software architectures :) The proceedings with the summary of the talks are out soon in the Softwaretechnik Trends.
+
+[Apr'26] Joining the PC of the [ICSE 2027 -- ACM Student Research Competition](https://conf.researchr.org/track/icse-2027/icse-2027-src) Track. Excited to review the latest works by young researchers! 
 
 [Apr'26] Joining the PC of the [MODELS Artifact Evaluation](https://conf.researchr.org/track/models-2026/models-2026-artifact-evaluation) Track. Looking forward to review again the artifacts that really substantiate our research! 
 
