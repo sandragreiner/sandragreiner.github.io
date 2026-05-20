@@ -47,7 +47,12 @@ I strive to improve the quality and usability of software artifacts involved to 
 	
 ### Recent PCs
 
+#### 2027
+
+* [ICSE 2027](https://conf.researchr.org/track/icse-2027/icse-2027-src) - ACM Student Research Competition
+
 #### 2026
+
 * [MODELS 2026](https://conf.researchr.org/track/models-2026/models-2026-artifact-evaluation) - Artifact Evaluation Track
 
 * [IEEE ICE 2026](https://ice-conference.org/call-for-contributions/) - Special Session on "Modular Ecosystems for Software Defined Manufacturing"
