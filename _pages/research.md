@@ -24,5 +24,3 @@ I collect here publicly available research material, in form of talks and prepri
 ## Publications
 		
 For a complete list of all my publications please check out my [dblp](https://dblp.org/pid/183/9453.html) page and you may also have a look at [Google Scholar](https://scholar.google.com/citations?user=3ttOuYQAAAAJ&hl=de&oi=ao).
-
-I will subsequently add a list of the latest and key publications with their preprints.

@@ -24,6 +24,12 @@ Have fun exploring this site and check out the latest news, listed below... :)
 ------------------------------------------
 ## News
 
+[June'26] Happy to share the news that I will be hosting a _Short Term Scientific Mission_ as part of the EU COST Action [roar-net](https://roar-net.eu/). Looking forward to work together with [Bernhard Berger](https://bergerbd.de/) on _Modeling the ROAR-NET API_ :)
+
+[June'26] Presented our research paper _Benchmarking API Data Transfer Refactorings to Service-Oriented Architectures_ at ([ICSA 2026](https://conf.researchr.org/home/icsa-2026)).
+
+[June'26] Joined the PC of the  [20th International Workshop on Models and Evolution (ME'26)](https://models-and-evolution.github.io/). 
+
 [May'26] Joined the PC of the [ASE 2026 -- NIER](https://conf.researchr.org/track/ase-2026/ase-2026-nier) Track. 
 
 [May'26] Attended the [28th Workshop on Software Reengineering & Evolution (WSRE)](https://fg-sre.gi.de/veranstaltung/28-workshop-software-reengineering-evolution). This year we were co-located with the [Architekturen 2026](https://fg-arc.gi.de/veranstaltung/architekturen-2026) meeting. What a pleasure to discuss specifically the cross-cutting topics between software re-engineering and software architectures :) The proceedings with the summary of the talks are out soon in the Softwaretechnik Trends.
@@ -35,7 +41,6 @@ Have fun exploring this site and check out the latest news, listed below... :)
 [Mar'26] We are hosting the _17th Meeting on Feature Oriented Software Development_ ([FOSD 2026](https://fosd.github.io/FOSD2026/)) at SDU. Looking forward to welcome established and young researchers, who work on taming software variability, in Odense!
 
 [Feb'26] Our paper _Benchmarking API Data Transfer Refactorings to Service-Oriented Architectures_ got accepted to the Research Track at the International Conference on Software Architecture ([ICSA 2026](https://conf.researchr.org/home/icsa-2026)).
-
 
 [Feb'26] Joining the PC for a [IEEE ICE 2026 Special Session 02](https://ice-conference.org/call-for-contributions/) on "Modular Ecosystems for Software Defined Manufacturing!". Looking forward to exciting submissions :)
 
