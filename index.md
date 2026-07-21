@@ -24,7 +24,9 @@ Have fun exploring this site and check out the latest news, listed below... :)
 ------------------------------------------
 ## News
 
-[June'26] Happy to share the news that I will be hosting a _Short Term Scientific Mission_ as part of the EU COST Action [roar-net](https://roar-net.eu/). Looking forward to work together with [Bernhard Berger](https://bergerbd.de/) on _Modeling the ROAR-NET API_ :)
+[July'26] Honored to have the opportunity to serve as external reviewer in the committee of the doctoral defense of [David Romero Organvídez](https://personal.us.es/drorganvidez/). His work on providing [UVLHub](https://www.uvlhub.io/) is an essential contribution for the variability community. Muchas felizidades a David por su doctorado! 
+
+[July'26] Happy to share the news that I will be hosting a __Short Term Scientific Mission__ as part of the EU COST Action [roar-net](https://roar-net.eu/). Looking forward to work together with [Bernhard Berger](https://bergerbd.de/) on _Modeling the ROAR-NET API_ . :)
 
 [June'26] Presented our research paper _Benchmarking API Data Transfer Refactorings to Service-Oriented Architectures_ at ([ICSA 2026](https://conf.researchr.org/home/icsa-2026)).
 
