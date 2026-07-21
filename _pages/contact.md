@@ -16,13 +16,4 @@ Since I'm sporadically traveling a lot, to be sure to reach me in the office, pl
 	DK-5230 Odense M
 	Office: Ø14-601b-1
 	
-	
-## University of Regensburg (until March 31, 2025):
-		
-	Faculty for Informatics and Data Science
-	University of Regensburg (UR)
-	Bajuwarenstrasse 4
-	D-93053 Regensburg
-	Office: 404 (no joke ;))
-	
 
