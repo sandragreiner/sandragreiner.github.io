@@ -64,9 +64,8 @@ include:
 author:
   name     : "Sandra Greiner"
   avatar   : "/assets/images/sandra.jpg" 
-  bio      : "Assistant Professor in the ACP Section @ SDU."
+  bio      : "Associate Professor in the ACP Section @ SDU."
   location : "Odense, sometimes in Bavaria :)"
-  twitter  : "sandragreiner"
   dblp     : "183/9453.html"
   orcid  : "0000-0001-8950-0092"
   github   : "sandragreiner"
@@ -135,9 +134,6 @@ pagination:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sandragreiner"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sandragreiner"
