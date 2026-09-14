@@ -24,6 +24,14 @@ Have fun exploring this site and check out the latest news, listed below... :)
 ------------------------------------------
 ## News
 
+[Sep'26] Joining the PC of [CAiSE 2027](https://deal.us.es/caise27/). Looking forward to reviewing your research and industrial contributions in systems engineering.
+
+[Aug'26] Joint work with [insinno GmbH](https://insinno.eu/) on using Generative AI to modernize legacy software got accepted at [AISM 2026](https://conf.researchr.org/home/ase-2026/aism-2026) which is co-located with [ASE 2026](https://conf.researchr.org/home/ase-2026).
+
+[Aug'26] Our paper _Towards Systematic Management of Semantic Variability in Industry-Scale Executable Model-ing Languages_ got accepted at [MODELS 2026](https://conf.researchr.org/home/models-2026).
+
+[July'26] Joint work with TU Vienna and Karlsruhe Institute of Technology on supporting _configuration sequences in feature models_ got accepted as tool paper at the [Tenth International Workshop on Languages for Modelling Variability (MODEVAR@VARIABILITY 2026)](https://modevar.github.io/).  
+
 [July'26] Honored to have the opportunity to serve as external reviewer in the committee of the doctoral defense of [David Romero Organvídez](https://personal.us.es/drorganvidez/). His work on providing [UVLHub](https://www.uvlhub.io/) is an essential contribution for the variability community. Muchas felizidades a David por su doctorado! 
 
 [July'26] Happy to share the news that I will be hosting a __Short Term Scientific Mission__ as part of the EU COST Action [roar-net](https://roar-net.eu/). Looking forward to work together with [Bernhard Berger](https://bergerbd.de/) on _Modeling the ROAR-NET API_ . :)
