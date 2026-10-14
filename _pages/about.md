@@ -7,7 +7,7 @@ toc: true
 
 ## About me
 
-I am Associate Professor in the [ACP Section](https://acp.sdu.dk/) of the [Department of Mathematics and Computer Science (IMADA)](https://imada.sdu.dk) at the University of Southern  Denmarkwhich I joined in May 2024 as Assistant Professor.
+I am an Associate Professor in the [ACP Section](https://acp.sdu.dk/) of the [Department of Mathematics and Computer Science (IMADA)](https://imada.sdu.dk) at the University of Southern  Denmarkwhich I joined in May 2024 as Assistant Professor.
 Between Oct 2024 and Mar 2025, I served as Interim Professor for Software Engineering at the Unviersity of Regensburg.
 Before that, I was [PostDoc](https://seg.inf.unibe.ch/people/sandra/) in Timo Kehrer's [Software Engineering Group](https://seg.inf.unibe.ch/) at the University of Bern since October 2022.
 I did my PhD studies and lots of teaching activities at the University of Bayreuth in the [Chair for Software Engineering](https://www.ai1.uni-bayreuth.de/de/index.html).
@@ -26,30 +26,60 @@ I strive to improve the quality and usability of software artifacts involved to 
 
 ## Services
 
-* Sofware Vice Coordinator and Core Group Member in the [EU COST Action ROAR-NET](https://roar-net.eu/)
-* Editorial Board Member of the [Science of Computer Programming (SCP)](https://www.sciencedirect.com/journal/science-of-computer-programming) journal
-* Guest Editor [SoSym Special Issue on Data-intensive software product lines](https://sosym.org/theme_sections/cfp/cfp-SoSyM-TS-SPLC25.pdf) 
+* __Sofware Vice Coordinator__ and Core Group Member in the [EU COST Action ROAR-NET](https://roar-net.eu/)
+* __Editorial Board Member__ of the [Science of Computer Programming (SCP)](https://www.sciencedirect.com/journal/science-of-computer-programming) journal
+* __Guest Editor__ [SoSym Special Issue on Data-intensive software product lines](https://sosym.org/theme_sections/cfp/cfp-SoSyM-TS-SPLC25.pdf) 
 
 ### Organization
 
-* GI Dagstuhl Seminar on [Data-Driven Design and Operation of Resilient Cyber-Physical Production Systems](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/26463)
+#### 2027
 
-* Local Organization [FOSD Meeting 2026](https://fosd.github.io/FOSD2026/)
-* Co-Organization Tool and Demonstration Track [VARIABILITY 2026](https://conf.researchr.org/track/variability-2026/variability-2026-demonstration-and-tools)
-* Research Track Co-Chair [SPLC 2025](https://2025.splc.net)
-* Co-Organization [16th Transformtion Tool Contest (TTC)](https://www.transformation-tool-contest.eu/) as part of [STAF 2025](https://conf.researchr.org/home/staf-2025)
+* [MODELS 2027](https://conf.researchr.org/home/models-2027) - Artifact Evaluation Co-Chair
 
-* Co-Organization [9th SECPPS workshop](https://rickrabiser.github.io/secpps-ws/se25/)
-* Co-Organization [ICST 2025](https://conf.researchr.org/home/icst-2025) [Poster Track](https://conf.researchr.org/track/icst-2025/icst-2025-posters)
-* Co-Organization [1st Re:volution Workshop](https://sites.google.com/view/re-volution2024/home)
-* Publicity Co-Chair [SPLC 2024](https://2024.splc.net)
-* Local Co-Organizer [VaMoS 2024](https://vamos2024.inf.unibe.ch/)
+* [13th SECPPS workshop](https://rickrabiser.github.io/secpps-ws/se27/) co-located with [SE 2027](https://se2027.cs.tu-dortmund.de/) - Co-Organizer
+
+#### 2026
+* GI Dagstuhl Seminar on [Data-Driven Design and Operation of Resilient Cyber-Physical Production Systems](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/26463) - Co-Organizer
+
+* [FOSD Meeting 2026](https://fosd.github.io/FOSD2026/) - Local Organizer
+
+* [VARIABILITY 2026](https://conf.researchr.org/track/variability-2026/variability-2026-demonstration-and-tools) - Tool and Demonstration Track Co-Chair
+
+* [__17th Transformtion Tool Contest (TTC)__]((https://www.transformation-tool-contest.eu/)) as part of [STAF 2026](https://conf.researchr.org/home/staf-2026)
+ 
+* [12th SECPPS workshop](https://rickrabiser.github.io/secpps-ws/se26/) co-located with [SE 2026](https://se2026.inf.unibe.ch/de/) - Co-Organizer
+
+#### 2025
+
+* [SPLC 2025](https://2025.splc.net) -  Research Track Co-Chair
+
+* __16th Transformtion Tool Contest (TTC)__ as part of [STAF 2025](https://conf.researchr.org/home/staf-2025)
+
+* [9th SECPPS workshop](https://rickrabiser.github.io/secpps-ws/se25/) co-located with [SE 2025](https://se2025.sdq.kastel.kit.edu/) - Co-Organizer
+
+* [ICST 2025](https://conf.researchr.org/home/icst-2025) - Poster Track Co-Chair
+
+* [2nd Re:volution Workshop](https://sites.google.com/view/revolution2025/home) - Co-Organizer
+
+
+#### 2024
+
+* [SPLC 2024](https://2024.splc.net) - Publicity Co-Chair
+
+* [VaMoS 2024](https://vamos2024.inf.unibe.ch/) - Local Co-Organizer
+
+* [1st Re:volution Workshop](https://sites.google.com/view/re-volution2024/home) - Co-Organizer
+
 	
 ### Recent PCs
 
 #### 2027
 
 * [ICSE 2027](https://conf.researchr.org/track/icse-2027/icse-2027-src) - ACM Student Research Competition
+
+* [CAiSE 2027](https://caise2027seville.org/) - Research Track
+
+* [EASE 2027](https://conf.researchr.org/home/ease-2027) - Short Papers and Emerging Results
 
 #### 2026
 
