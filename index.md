@@ -24,6 +24,14 @@ Have fun exploring this site and check out the latest news, listed below... :)
 ------------------------------------------
 ## News
 
+[Sep'26] Been invited and held a __keynote__ at the [1st Workshop Workshop on Generative AI and Variability](https://conf.researchr.org/track/variability-2026/variability-2026-gaiv). The [slides](resources/talks/2609_genAI_andSPL-handout.pdf) to my talk are available on this website.
+
+[Sep'26] Hosting [Bianca Wiesmayr](https://www.uni-ulm.de/in/sp/team/jun-prof-dr-bianca-wiesmayr/) for a short research visit at SDU.
+
+[Sep'26] Hosting students from Duale Hochschule Sachsen at SDU's Odense campus. They follow the Course _"Sustainability in Distributed Systems"_, which I organized, as part of an Erasmus+ Short-term Mobility. 
+
+[Sep'26] Joining the PC of [EASE 2027](https://conf.researchr.org/home/ease-2027) of the Short Papers and Emerging Results Track. Looking forward to reviewing your research and industrial contributions in systems engineering.
+
 [Sep'26] Joining the PC of [CAiSE 2027](https://deal.us.es/caise27/). Looking forward to reviewing your research and industrial contributions in systems engineering.
 
 [Aug'26] Joint work with [insinno GmbH](https://insinno.eu/) on using Generative AI to modernize legacy software got accepted at [AISM 2026](https://conf.researchr.org/home/ase-2026/aism-2026) which is co-located with [ASE 2026](https://conf.researchr.org/home/ase-2026).
