@@ -12,7 +12,7 @@ I collect here publicly available research material, in form of talks and prepri
 
 ### 2026
 
-* __Keynote__ @[GAIV 2026](https://conf.researchr.org/track/variability-2026/variability-2026-gaiv): _Generative AI and Software Variability - An earlier research vision, today’s reality, and a possible future_ [[slides]](resources/talks/2609_genAI_and_SPL-handout.pdf)
+* __Keynote__ @[GAIV 2026](https://conf.researchr.org/track/variability-2026/variability-2026-gaiv): _Generative AI and Software Variability - An earlier research vision, today’s reality, and a possible future_ [[slides]](/resources/talks/2609_genAI_and_SPL-handout.pdf)
 
 
 
